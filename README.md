@@ -1,34 +1,35 @@
-# 👋 About Me  
+# ➢➢ About Me  
 
 Hi, I'm **Khubaib Uddin**!  
 
-## 🌟 Android Developer & Research Assistant  
-- 🚀 Crafting innovative apps like **Deepfake Call Detector** and **My Green UTM**.  
-- 🔬 Researching **"Optimizing CNN-LSTM for Reliable Deepfake Detection"** under **Dr. Liyana Adilla Binti Burhanuddin**.  
+##  Android Developer & Research Assistant  
+-  Crafting innovative apps like **Deepfake Call Detector** and **My Green UTM**.  
+-  Researching **"Optimizing CNN-LSTM for Reliable Deepfake Detection"** under **Dr. Liyana Adilla Binti Burhanuddin**.  
 
 ## 🎓 Education & Leadership  
-- 📌 Vice Secretary, Software Engineering Association, UTMKL.  
-- 💡 Passionate about technology and continuous learning.  
+-  1st Year Student,Bachelors of Software Engineering, Malaysia Japan International Institute of Technology, Univerisit Teknologi Malaysia.
+-  Vice Secretary, Software Engineering Association, UTMKL.  
+-  Passionate about technology and continuous learning.  
 
-## 🚀 Skills  
+##  Skills  
 - **Languages:** Kotlin, C++, Java  
 - **Mobile Development:** Android, Jetpack Compose, Multiplatform Apps  
 - **Backend Development:** Ktor (API & server)  
 - **UI/UX Design:** Figma, Interactive Design  
 - **Networking:** Cisco Packet Tracer  
 
-## 🛠️ Key Projects  
+## 🛠 Key Projects  
 - **Deepfake Call Detector**: Detects deepfake audio using Kotlin & Ktor.  
 - **My Green UTM**: Streamlining green initiatives for UTM staff/admins.  
 - **Smart Cyber Guardian**: AI-driven digital identity system.  
 
 ## 🌐 Goals  
-- 🌱 Master Kotlin Multiplatform for Android, iOS, and web apps.  
-- 🚀 Advance in Android development, AI research, and networking.  
+-  Master Kotlin Multiplatform for Android, iOS, and web apps.  
+-  Advance in Android development, AI research, and networking.  
 
-## 🌟 Fun Facts  
-- 🎯 Tech enthusiast exploring trends.  
-- 🏅 Preparing for leadership roles in sports and tech communities.  
+##  Fun Facts  
+-  Tech enthusiast exploring trends.  
+-  Preparing for leadership roles in sports and tech communities.  
 
 
 
@@ -42,7 +43,7 @@ Hi, I'm **Khubaib Uddin**!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KhobaitUddinSimran&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhobaitUddinSimran&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KhobaitUddinSimran&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
