@@ -1,5 +1,35 @@
-#  About Me:
-Hi there , I'm **Khubaib Uddin**!<br>Welcome to my GitHub profile!<br><br>🌟 **About Me**<br>I'm a passionate Android Developer and tech enthusiast dedicated to crafting innovative mobile applications. Currently working on exciting projects like the Deepfake Call Detector and My Green UTM.<br><br>🎓 I'm pursuing my education while actively engaging in **software engineering** initiatives as the Vice Secretary of the Software Engineering Association at UTMKL. My journey is fueled by my love for technology and a commitment to continuous learning.<br><br>🚀 ##Skills ##& ##Technologies<br>**Languages:** Kotlin, C++, Java<br>**Mobile Development:** Android Development, Jetpack Compose, Multiplatform Apps<br>**Backend Development:** Ktor for API and server development<br>**UI/UX Design:** Figma, Interactive Design Elements<br>**Networking:** Cisco Packet Tracer<br>🛠️ **Projects**<br>Deepfake Call Detector: A Kotlin-based app using Ktor to detect deepfake audio in calls.<br>My Green UTM: An exclusive platform for UTM staff and admins to streamline green initiatives.<br>Smart Cyber Guardian: A digital identity system with AI-driven cybersecurity features.<br>🌐 My Goals<br>Master Kotlin Multiplatform for Android, iOS, and web apps.<br>Deepen my expertise in Android development and networking.<br>Contribute to impactful open-source projects and share my learnings.<br>🌟 Fun Facts<br>I enjoy exploring new tech trends and integrating them into my projects.<br>Actively preparing for leadership roles in sports and tech communities.
+# 👋 About Me  
+
+Hi, I'm **Khubaib Uddin**!  
+
+## 🌟 Android Developer & Research Assistant  
+- 🚀 Crafting innovative apps like **Deepfake Call Detector** and **My Green UTM**.  
+- 🔬 Researching **"Optimizing CNN-LSTM for Reliable Deepfake Detection"** under **Dr. Liyana Adilla Binti Burhanuddin**.  
+
+## 🎓 Education & Leadership  
+- 📌 Vice Secretary, Software Engineering Association, UTMKL.  
+- 💡 Passionate about technology and continuous learning.  
+
+## 🚀 Skills  
+- **Languages:** Kotlin, C++, Java  
+- **Mobile Development:** Android, Jetpack Compose, Multiplatform Apps  
+- **Backend Development:** Ktor (API & server)  
+- **UI/UX Design:** Figma, Interactive Design  
+- **Networking:** Cisco Packet Tracer  
+
+## 🛠️ Key Projects  
+- **Deepfake Call Detector**: Detects deepfake audio using Kotlin & Ktor.  
+- **My Green UTM**: Streamlining green initiatives for UTM staff/admins.  
+- **Smart Cyber Guardian**: AI-driven digital identity system.  
+
+## 🌐 Goals  
+- 🌱 Master Kotlin Multiplatform for Android, iOS, and web apps.  
+- 🚀 Advance in Android development, AI research, and networking.  
+
+## 🌟 Fun Facts  
+- 🎯 Tech enthusiast exploring trends.  
+- 🏅 Preparing for leadership roles in sports and tech communities.  
+
 
 
 ## 🌐 Socials:
