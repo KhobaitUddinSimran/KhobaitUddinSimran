@@ -7,12 +7,12 @@ Hi, I'm **Khubaib Uddin**!
 -  Researching **"Optimizing CNN-LSTM for Reliable Deepfake Detection"** under **Dr. Liyana Adilla Binti Burhanuddin**.  
 
 ## 🎓 Education & Leadership  
--  1st Year Student,Bachelors of Software Engineering, Malaysia Japan International Institute of Technology, Univerisit Teknologi Malaysia.
+-  2nd Year Student,Bachelors of Software Engineering, Malaysia Japan International Institute of Technology, Univerisit Teknologi Malaysia.
 -  Vice Secretary, Software Engineering Association, UTMKL.  
 -  Passionate about technology and continuous learning.  
 
 ##  Skills  
-- **Languages:** Kotlin, C++, Java  
+- **Languages:** Kotlin, C++, Java, Python
 - **Mobile Development:** Android, Jetpack Compose, Multiplatform Apps  
 - **Backend Development:** Ktor (API & server)  
 - **UI/UX Design:** Figma, Interactive Design  
