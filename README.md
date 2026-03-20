@@ -2,30 +2,27 @@
 
 Hi, I'm **Khubaib Uddin**!  
 
-##  Android Developer & Research Assistant  
--  Crafting innovative apps like **Deepfake Call Detector** and **My Green UTM**.  
--  Researching **"Optimizing CNN-LSTM for Reliable Deepfake Detection"** under **Dr. Liyana Adilla Binti Burhanuddin**.  
+##  Android Developer & Research Assistant and Learning AI/ML  
+-  Crafting innovative apps like **Deepfake Call Detector**
+
 
 ## 🎓 Education & Leadership  
--  2nd Year Student,Bachelors of Software Engineering, Malaysia Japan International Institute of Technology, Univerisit Teknologi Malaysia.
--  Vice Secretary, Software Engineering Association, UTMKL.  
--  Passionate about technology and continuous learning.  
+-  3rd Year Student,Bachelors of Software Engineering, Malaysia Japan International Institute of Technology, Univerisit Teknologi Malaysia.
+
 
 ##  Skills  
-- **Languages:** Kotlin, C++, Java, Python
-- **Mobile Development:** Android, Jetpack Compose, Multiplatform Apps  
+- **Languages and Libraries :** [Python, Kotlin, C++, Java] -- [Pandas, Numpy, Jetpack Compose]
+- **Mobile Development:** Android, Multiplatform Apps
 - **Backend Development:** Ktor (API & server)  
-- **UI/UX Design:** Figma, Interactive Design  
 - **Networking:** Cisco Packet Tracer  
 
 ## 🛠 Key Projects  
 - **Deepfake Call Detector**: Detects deepfake audio using Kotlin & Ktor.  
-- **My Green UTM**: Streamlining green initiatives for UTM staff/admins.  
 - **Smart Cyber Guardian**: AI-driven digital identity system.  
 
 ## 🌐 Goals  
 -  Master Kotlin Multiplatform for Android, iOS, and web apps.  
--  Advance in Android development, AI research, and networking.  
+-  Advance in AI research, Android development, and networking.  
 
 ##  Fun Facts  
 -  Tech enthusiast exploring trends.  
